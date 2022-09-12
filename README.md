@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kristinapayz
-- 👀 I’m interested in becoming a Website Developer.
-- 🌱 I’m currently learning HTML, CSS, and Javascript that's for free in Coursera.
+- 👀 I’m interested in becoming a Software Engineer.
+- 🌱 I'm knowledgeable in HTML, CSS, JavaScript and Java.
+- 😀 As of the momement, I'm learning how to code using Python.
 
 <!---
 Kristinapayz/Kristinapayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
